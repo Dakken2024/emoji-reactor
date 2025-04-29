@@ -1,6 +1,10 @@
 # emoji-reactor
 Mini games developed based on Qwen3, pure html,javascript,css
 
+demo:
+
+https://emoji-reactor.vercel.app/ 
+
 prompt:
 
     请你扮演一个Web游戏开发者。设计并生成一个**表情符号反应堆 **的游戏。
